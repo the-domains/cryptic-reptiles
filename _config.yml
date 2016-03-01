@@ -1,0 +1,28 @@
+name: Cryptic Reptiles
+favicon: null
+layout_spectrum: 0.4271057010628283
+typography_spectrum: 0.542678534751758
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.21058404468931258
+  lightness: 0.9204847810324281
+  saturation: 0.8287875836249441
+  rhythmicContrast: 0.5741937765851617
+purpose: []
